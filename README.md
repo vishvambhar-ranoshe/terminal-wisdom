@@ -4,7 +4,6 @@ Markdown
 
 [![Bash](https://img.shields.io/badge/Shell-Maintained-green?style=flat-square&logo=gnu-bash)](https://github.com/vishvambhar-ranoshe)
 [![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blueviolet?style=flat-square&logo=kali-linux)](https://www.kali.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 A lightweight Bash script for Kali Linux and other distributions to display a randomized hacker-themed or motivational quote every time you open a terminal.
 
